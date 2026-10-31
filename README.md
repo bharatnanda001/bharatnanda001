@@ -141,53 +141,11 @@ Tech Stack: FastAPI • ReactJS • Python • REST APIs
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatnanda001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatnanda001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=bharatnanda001&theme=tokyonight&hide_border=true" width="80%" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bharatnanda001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
 # ⚔️ LeetCode Stats
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/bharatnanda001?theme=dark&font=JetBrains+Mono&ext=heatmap&hide_border=true" width="70%" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatnanda001&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -214,16 +172,6 @@ Tech Stack: FastAPI • ReactJS • Python • REST APIs
 - ☁️ DevOps & Cloud
 - 🔐 Secure REST API Development
 - 🏗️ Scalable System Design
-
----
-
-# ✍️ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ---
 

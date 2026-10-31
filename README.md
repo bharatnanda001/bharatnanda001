@@ -3,12 +3,7 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bharat%20Nanda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20Full-Stack%20Developer%20|%20Java%20Developer&descAlignY=58&descSize=20" width="100%" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Pre-final+Year+Computer+Science+Student;Backend+Engineering+⚙️+%7C+REST+API+Development;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+ReactJS;Building+Scalable+Full-Stack+Applications+🚀;LeetCode+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</a>
-
-<br><br>
+<br>
 
 <!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=bharatnanda001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
